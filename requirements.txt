@@ -1,4 +1,1 @@
-aiogram==3.7.0
-python-dotenv
-apscheduler
-requests
+pyTelegramBotAPI
